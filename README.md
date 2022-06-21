@@ -43,7 +43,7 @@ $ cd cro-general-app
 Create virtual environment.
 
 ```powershell
-$ py -3.10 -m venv .venv
+$ py -3.10 -m venv --upgrade-deps .venv
 ```
 
 Activate virtual environment.
