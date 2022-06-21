@@ -55,7 +55,7 @@ $ .\.venv\Scripts\activate
 Install the package in editable mode.
 
 ```powershell
-$ pip install -e .[dev]
+$ pip install -e .'[dev]'
 ```
 
 ## Usage
