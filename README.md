@@ -2,6 +2,8 @@
 
 The general microservice with information about available shows and stations.
 
+Development notes in [Google document](https://docs.google.com/document/d/1ukPolDfobIMXkMWHVxxz5TauZBDoz4eOFM8uUFd5B9Y/edit?usp=sharing)
+
 ## Features
 
 - Show (entity)
