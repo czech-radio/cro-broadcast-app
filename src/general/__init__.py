@@ -1,0 +1,6 @@
+
+
+"""
+Dokumentace balíku.
+"""
+
