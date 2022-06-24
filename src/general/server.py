@@ -1,9 +1,6 @@
+# -*- coding: utf-8 -*-
+
 
 """
-Flask webový server poskytující REST (JSON) API.
+Flask web server serving REST (JSON) API.
 """
-
-
-def hello() -> None:
-    print("Hello Petra")
-

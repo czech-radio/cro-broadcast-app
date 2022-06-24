@@ -1,5 +1,0 @@
-
-
-"""
-Obsahuje doménový model pořadu.
-"""

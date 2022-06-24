@@ -28,6 +28,20 @@ pip install git+https://github.com/czech-radio/cro-general-app.git
 
 ### Development
 
+#### Project structure
+
+```
+src/
+    general/
+        domain.py
+        server.py
+LICENSE
+README.md
+setup.py
+```
+
+#### Getting started
+
 Clone the repository.
 
 ```powershell
