@@ -1,0 +1,1890 @@
+{
+    "timestamp": "2022-06-29T09:38:05+02:00",
+    "data": [
+        {
+            "station": "plus",
+            "id": 17898856,
+            "title": "Zpr\u00e1vy",
+            "description": "",
+            "since": "2022-06-28T00:00:00+02:00",
+            "till": "2022-06-28T00:10:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898857,
+            "title": "Dvacet minut Radio\u017eurn\u00e1lu",
+            "description": "Hostem je Hana Kordov\u00e1 Marvanov\u00e1, pra\u017esk\u00e1 radn\u00ed. M\u011bl pra\u017esk\u00fd radn\u00ed pro dopravu Adam Scheinherr dohodu s polici\u00ed, \u017ee po trestn\u00edm ozn\u00e1men\u00ed podan\u00e9m kv\u016fli podez\u0159en\u00ed z korupce v m\u011bstsk\u00e9m dopravn\u00edm podniku bude pasivn\u011b ml\u010det, aby vy\u0161et\u0159ovatel\u00e9 mohli v klidu pracovat? Kdo si jako prvn\u00ed ve veden\u00ed Prahy v\u0161iml korup\u010dn\u00edho jedn\u00e1n\u00ed n\u00e1m\u011bstka prim\u00e1tora Petra Hlubu\u010dka a vyzval k n\u00e1prav\u011b? Moderuje Tom\u00e1\u0161 Panc\u00ed\u0159.",
+            "since": "2022-06-28T00:10:00+02:00",
+            "till": "2022-06-28T00:36:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 5997743,
+                "profile": "https:\/\/radiozurnal.rozhlas.cz\/dvacet-minut-radiozurnalu-5997743",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/5997743",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/5997743.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898871,
+            "title": "Podcast Vinohradsk\u00e1 12",
+            "description": "Dal\u0161\u00ed d\u00edl seri\u00e1lu vl\u00e1da a energie. Kde se vzal n\u00e1pad na p\u0159evzet\u00ed kl\u00ed\u010dov\u00fdch elektr\u00e1ren v \u010cesku? Pro\u010d chce vl\u00e1da rozd\u011blit polostatn\u00ed firmu \u010cEZ? A jak to v\u0161echno pom\u016f\u017ee lidem, kte\u0159\u00ed u\u017e te\u010f nemaj\u00ed na elekt\u0159inu? Mat\u011bj Skalick\u00fd mluv\u00ed s Janou Kl\u00edmovou, z\u00e1stupkyn\u00ed \u0161\u00e9fredaktora Hospod\u00e1\u0159sk\u00fdch novin.",
+            "since": "2022-06-28T00:36:00+02:00",
+            "till": "2022-06-28T01:00:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898859,
+            "title": "Zpr\u00e1vy",
+            "description": "",
+            "since": "2022-06-28T01:00:00+02:00",
+            "till": "2022-06-28T01:05:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898860,
+            "title": "Zpr\u00e1vy v angli\u010dtin\u011b\/News in English",
+            "description": "P\u011btiminutov\u00fd p\u0159ehled aktu\u00e1ln\u00edho d\u011bn\u00ed v anglick\u00e9m jazyce. News in English offers a concise, English-language overview of events in the Czech Republic in the areas of politics, the economy and culture.",
+            "since": "2022-06-28T01:05:00+02:00",
+            "till": "2022-06-28T01:10:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483120,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-v-anglictinenews-english-6483120",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483120.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898861,
+            "title": "Jak to vid\u00ed...",
+            "description": "Projev premi\u00e9ra, n\u00e1vrat lid\u00ed ke kultu\u0159e a setk\u00e1v\u00e1n\u00ed nebo roli elit ve v\u00fdvoji \u010desk\u00e9 spole\u010dnosti, okomentoval v po\u0159adu Jak to vid\u00ed spisovatel Pavel Kosat\u00edk. Moderuje Zita Senkov\u00e1.",
+            "since": "2022-06-28T01:10:00+02:00",
+            "till": "2022-06-28T01:30:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 5001081,
+                "profile": "https:\/\/dvojka.rozhlas.cz\/jak-vidi-5001081",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/5001081",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/5001081.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898862,
+            "title": "Zpr\u00e1vy v p\u016fl",
+            "description": "",
+            "since": "2022-06-28T01:30:00+02:00",
+            "till": "2022-06-28T01:33:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898863,
+            "title": "Osobnost Plus",
+            "description": "Vlastimil Je\u017eek, \u010dlen Rady \u010cesk\u00e9 televize a b\u00fdval\u00fd \u0159editel \u010cesk\u00e9ho rozhlasu. Je \u010dlov\u011bk medi\u00e1ln\u011b zb\u011bhl\u00fd a aktu\u00e1ln\u011b vstupuje do Rady \u010cesk\u00e9 televize jako jej\u00ed nov\u00fd \u010dlen. Tla\u010dil by v dne\u0161n\u00ed finan\u010dn\u011b nep\u0159\u00edzniv\u00e9 dob\u011b na politiky kv\u016fli zv\u00fd\u0161en\u00ed koncesion\u00e1\u0159sk\u00fdch poplatk\u016f? Pot\u0159ebujeme podle n\u011bj \u010ceskou televizi s tak \u0161irok\u00fdm z\u00e1b\u011brem? A je p\u0159ipraven jako nov\u00fd radn\u00ed b\u00fdt \u010dast\u011bj\u0161\u00edm televizn\u00edm div\u00e1kem ne\u017e dosud? Moderuje Barbora Tachec\u00ed.",
+            "since": "2022-06-28T01:33:00+02:00",
+            "till": "2022-06-28T02:00:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6483083,
+                "profile": "https:\/\/plus.rozhlas.cz\/osobnost-plus-6483083",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6483083",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483083.jpg"
+            },
+            "persons": [
+                {
+                    "id": 5001039,
+                    "name": "Barbora Tachec\u00ed",
+                    "profile": "https:\/\/informace.rozhlas.cz\/barbora-tacheci-5001039",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5001039.jpg"
+                }
+            ]
+        },
+        {
+            "station": "plus",
+            "id": 17898864,
+            "title": "Zpr\u00e1vy",
+            "description": "",
+            "since": "2022-06-28T02:00:00+02:00",
+            "till": "2022-06-28T02:05:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898865,
+            "title": "Hovory",
+            "description": "\"D\u00edt\u011b nen\u00ed mal\u00fd dosp\u011bl\u00fd. Zaslou\u017e\u00ed si sice stejnou \u00factu a pozornost, ale ve sv\u011bt\u011b se teprve u\u010d\u00ed fungovat. A dosp\u011bl\u00ed mu v tomto n\u00e1ro\u010dn\u00e9m procesu mus\u00ed pomoci\" - \u0159\u00edk\u00e1 propag\u00e1torka unschoolingu Zde\u0148ka \u0160\u00edp Sta\u0148kov\u00e1. V Hovorech bude mluvit i o tom, \u017ee b\u011b\u017en\u00e9 \u0161koly u\u017e ztratily monopol na vzd\u011bl\u00e1v\u00e1n\u00ed. \u017de unschooling je pro ka\u017ed\u00e9 d\u00edt\u011b, ale nen\u00ed pro ka\u017ed\u00e9ho rodi\u010de. A tak\u00e9 o \u0161ikan\u011b a traumatech z d\u011btstv\u00ed. Moderuje Nad\u011b\u017eda H\u00e1vov\u00e1.",
+            "since": "2022-06-28T02:05:00+02:00",
+            "till": "2022-06-28T02:30:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6482988,
+                "profile": "https:\/\/plus.rozhlas.cz\/hovory-6482988",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6482988",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6482988.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898866,
+            "title": "Zpr\u00e1vy v p\u016fl",
+            "description": "",
+            "since": "2022-06-28T02:30:00+02:00",
+            "till": "2022-06-28T02:33:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898867,
+            "title": "N\u00e1zory a argumenty",
+            "description": "Ministerstvo \u0161kolstv\u00ed by dnes t\u011b\u017eko zvl\u00e1dal i lep\u0161\u00ed kandid\u00e1t ne\u017e Vladim\u00edr Bala\u0161. Realitn\u00ed bublina, kter\u00e1 mus\u00ed nutn\u011b prasknout. Co v\u00a0USA zp\u016fsob\u00ed verdikt Nejvy\u0161\u0161\u00edho soudu o potratech. Dal\u0161\u00ed ohro\u017een\u00ed Borise Johnsona po proh\u0159e konzervativn\u00ed strany v\u00a0dopl\u0148ovac\u00edch volb\u00e1ch. To jsou jen n\u011bkter\u00e1 vybran\u00e1 t\u00e9mata pond\u011bln\u00edho vyd\u00e1n\u00ed relace koment\u00e1\u0159\u016f k\u00a0dom\u00e1c\u00edmu i sv\u011btov\u00e9mu d\u011bn\u00ed. Moderuje Ond\u0159ej Konr\u00e1d.",
+            "since": "2022-06-28T02:33:00+02:00",
+            "till": "2022-06-28T02:59:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6504158,
+                "profile": "https:\/\/plus.rozhlas.cz\/nazory-a-argumenty-6504158",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6504158",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6504158.jpg"
+            },
+            "persons": [
+                {
+                    "id": 5003280,
+                    "name": "Ond\u0159ej Konr\u00e1d",
+                    "profile": "https:\/\/informace.rozhlas.cz\/ondrej-konrad-5003280",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5003280.jpg"
+                }
+            ]
+        },
+        {
+            "station": "plus",
+            "id": 17898868,
+            "title": "Zpr\u00e1vy",
+            "description": "",
+            "since": "2022-06-28T03:00:00+02:00",
+            "till": "2022-06-28T03:05:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898869,
+            "title": "Jak to bylo doopravdy",
+            "description": "Odhalujeme m\u00fdty, polopravdy, dezinformace \u010di l\u017ei z na\u0161\u00ed historie.",
+            "since": "2022-06-28T03:05:00+02:00",
+            "till": "2022-06-28T03:30:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6483053,
+                "profile": "https:\/\/plus.rozhlas.cz\/jak-bylo-doopravdy-6483053",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6483053",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483053.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898870,
+            "title": "Zpr\u00e1vy v p\u016fl",
+            "description": "",
+            "since": "2022-06-28T03:30:00+02:00",
+            "till": "2022-06-28T03:33:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898858,
+            "title": "Pro a proti",
+            "description": "V prvn\u00edm \u010dten\u00ed schv\u00e1len\u00e1 koali\u010dn\u00ed novela slu\u017eebn\u00edho z\u00e1kona, kter\u00e1 omezuje funk\u010dn\u00ed obdob\u00ed vysok\u00fdch \u00fa\u0159edn\u00edk\u016f, ru\u0161\u00ed odborn\u00e9 n\u00e1m\u011bstky na ministerstvech a umo\u017e\u0148uje bez omezen\u00ed po\u010dty politick\u00fdch n\u00e1m\u011bstk\u016f, podle opozice naraz\u00ed na z\u00e1kony Evropsk\u00e9 unie. Ohroz\u00ed novela \u010derp\u00e1n\u00ed unijn\u00edch dotac\u00ed? A otev\u00edr\u00e1 prostor pro politick\u00e9 trafiky, nebo naopak zajist\u00ed odpolitizov\u00e1n\u00ed v\u00fdkonu st\u00e1tn\u00ed spr\u00e1vy? Pozv\u00e1n\u00ed k diskusi p\u0159ijali poslankyn\u011b hnut\u00ed ANO a n\u011bkdej\u0161\u00ed ministryn\u011b Kl\u00e1ra Dost\u00e1lov\u00e1 a p\u0159edseda poslanc\u016f ODS Marek Benda. Moderuje Karol\u00edna Koubov\u00e1.",
+            "since": "2022-06-28T03:33:00+02:00",
+            "till": "2022-06-28T04:00:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6482952,
+                "profile": "https:\/\/plus.rozhlas.cz\/pro-a-proti-6482952",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6482952",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6482952.jpg"
+            },
+            "persons": [
+                {
+                    "id": 5002197,
+                    "name": "Karol\u00edna Koubov\u00e1",
+                    "profile": "https:\/\/informace.rozhlas.cz\/karolina-koubova-5002197",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5002197.jpg"
+                }
+            ]
+        },
+        {
+            "station": "plus",
+            "id": 17898872,
+            "title": "Zpr\u00e1vy",
+            "description": "",
+            "since": "2022-06-28T04:00:00+02:00",
+            "till": "2022-06-28T04:05:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898873,
+            "title": "Portr\u00e9ty",
+            "description": "Jednou z kl\u00ed\u010dov\u00fdch osobnost\u00ed rakousk\u00e9 politiky 70. let minul\u00e9ho stolet\u00ed byl Bruno Kreisky. P\u0159ipomene ho repr\u00edza po\u0159adu Portr\u00e9ty, kter\u00fd p\u0159ipravil Jan Sedmidubsk\u00fd.",
+            "since": "2022-06-28T04:05:00+02:00",
+            "till": "2022-06-28T05:00:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6504266,
+                "profile": "https:\/\/plus.rozhlas.cz\/portrety-6504266",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6504266",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6504266.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898874,
+            "title": "Zpr\u00e1vy",
+            "description": "",
+            "since": "2022-06-28T05:00:00+02:00",
+            "till": "2022-06-28T05:05:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898875,
+            "title": "Interview Plus",
+            "description": "Daniel An\u00fd\u017e, report\u00e9r Hospod\u00e1\u0159sk\u00fdch novin zam\u011b\u0159en\u00fd na Spojen\u00e9 st\u00e1ty. Americk\u00fd nejvy\u0161\u0161\u00ed soud zru\u0161il pr\u00e1vo na potrat, kter\u00e9 m\u011bly \u017eeny ve Spojen\u00fdch st\u00e1tech zaru\u010deno verdiktem z roku 1973. Koho toto rozhodnut\u00ed postihne p\u0159edev\u0161\u00edm? A bude m\u00edt politick\u00e9 d\u016fsledky?",
+            "since": "2022-06-28T05:05:00+02:00",
+            "till": "2022-06-28T05:30:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6504167,
+                "profile": "https:\/\/plus.rozhlas.cz\/interview-plus-6504167",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6504167",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6504167.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898876,
+            "title": "N\u00e1zory a argumenty",
+            "description": "Ministerstvo \u0161kolstv\u00ed by dnes t\u011b\u017eko zvl\u00e1dal i lep\u0161\u00ed kandid\u00e1t ne\u017e Vladim\u00edr Bala\u0161. Realitn\u00ed bublina, kter\u00e1 mus\u00ed nutn\u011b prasknout. Co v\u00a0USA zp\u016fsob\u00ed verdikt Nejvy\u0161\u0161\u00edho soudu o potratech. Dal\u0161\u00ed ohro\u017een\u00ed Borise Johnsona po proh\u0159e konzervativn\u00ed strany v\u00a0dopl\u0148ovac\u00edch volb\u00e1ch. To jsou jen n\u011bkter\u00e1 vybran\u00e1 t\u00e9mata pond\u011bln\u00edho vyd\u00e1n\u00ed relace koment\u00e1\u0159\u016f k\u00a0dom\u00e1c\u00edmu i sv\u011btov\u00e9mu d\u011bn\u00ed. Moderuje Ond\u0159ej Konr\u00e1d.",
+            "since": "2022-06-28T05:30:00+02:00",
+            "till": "2022-06-28T06:00:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6504158,
+                "profile": "https:\/\/plus.rozhlas.cz\/nazory-a-argumenty-6504158",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6504158",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6504158.jpg"
+            },
+            "persons": [
+                {
+                    "id": 5003280,
+                    "name": "Ond\u0159ej Konr\u00e1d",
+                    "profile": "https:\/\/informace.rozhlas.cz\/ondrej-konrad-5003280",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5003280.jpg"
+                }
+            ]
+        },
+        {
+            "station": "plus",
+            "id": 17898878,
+            "title": "Zpr\u00e1vy",
+            "description": "Aktu\u00e1ln\u00ed ud\u00e1losti doma i ve sv\u011bt\u011b",
+            "since": "2022-06-28T06:00:00+02:00",
+            "till": "2022-06-28T06:09:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898880,
+            "title": "Rann\u00ed Plus",
+            "description": "Prezident Milo\u0161 Zeman dnes p\u0159ijme a z\u00edtra jmenuje Vladim\u00edra Bala\u0161e nov\u00fdm ministrem \u0161kolstv\u00ed. Po v\u010derej\u0161\u00edm jedn\u00e1n\u00ed s prezidentem v L\u00e1nech to \u0159ekl premi\u00e9r a \u0161\u00e9f ODS Petr Fiala. Co spolu \u0159e\u0161ili? A s \u010d\u00edm nov\u00fd ministr na resort m\u00ed\u0159\u00ed? M\u00e1me pro v\u00e1s exkluzivn\u00ed rozhovor s vojenskou z\u00e1chran\u00e1\u0159kou, kter\u00e1 v\u00a0roce 2014 jako prvn\u00ed \u017eena vstoupila do ukrajinsk\u00e9ho pluku Azov. Pluk tehdy vznikl jako prvn\u00ed reakce na rusk\u00e9 \u00fatoky v oblasti Donbasu. Region\u00e1ln\u00ed den\u00edk se zam\u011b\u0159il na vod\u00e1ky - na leto\u0161n\u00ed dovolen\u00e9 podle n\u011bj musej\u00ed na \u0159ece po\u010d\u00edtat s\u00a0vy\u0161\u0161\u00edmi v\u00fddaji. Kv\u016fli rostouc\u00edm cen\u00e1m pohonn\u00fdch hmot, zbo\u017e\u00ed i slu\u017eeb mus\u00ed toti\u017e zdra\u017eovat i p\u016fj\u010dovny lod\u00ed. Dal\u0161\u00ed v p\u0159ehledu tisku. Moderuj\u00ed Jan Burda a Martina Ma\u0161kov\u00e1.",
+            "since": "2022-06-28T06:10:00+02:00",
+            "till": "2022-06-28T06:30:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6126378,
+                "profile": "https:\/\/plus.rozhlas.cz\/ranni-plus-6126378",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6126378.jpg"
+            },
+            "persons": [
+                {
+                    "id": 5000076,
+                    "name": "Martina Ma\u0161kov\u00e1",
+                    "profile": "https:\/\/informace.rozhlas.cz\/martina-maskova-5000076",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5000076.jpg"
+                },
+                {
+                    "id": 5000439,
+                    "name": "Jan Burda",
+                    "profile": "https:\/\/informace.rozhlas.cz\/jan-burda-5000439",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5000439.jpg"
+                }
+            ]
+        },
+        {
+            "station": "plus",
+            "id": 17898881,
+            "title": "Zpr\u00e1vy v p\u016fl",
+            "description": "",
+            "since": "2022-06-28T06:30:00+02:00",
+            "till": "2022-06-28T06:33:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898883,
+            "title": "Rann\u00ed Plus",
+            "description": "Politika, spole\u010dnost, byznys, v\u011bda",
+            "since": "2022-06-28T06:34:00+02:00",
+            "till": "2022-06-28T07:00:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6126378,
+                "profile": "https:\/\/plus.rozhlas.cz\/ranni-plus-6126378",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6126378.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898884,
+            "title": "Zpr\u00e1vy",
+            "description": "Aktu\u00e1ln\u00ed ud\u00e1losti doma i ve sv\u011bt\u011b",
+            "since": "2022-06-28T07:00:00+02:00",
+            "till": "2022-06-28T07:09:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898886,
+            "title": "Rann\u00ed Plus",
+            "description": "Odbory zastupuj\u00edc\u00ed zam\u011bstnance ve ve\u0159ejn\u00e9 sf\u00e9\u0159e jsou ve st\u00e1vkov\u00e9 pohotovosti. Dok\u00e1\u017ee vl\u00e1da odbor\u00e1\u0159e v \u010dase rekordn\u00ed inflace je\u0161t\u011b do pr\u00e1zdnin uspokojit? A dr\u017e\u00ed se kabinet mantry o nezbytnosti sni\u017eov\u00e1n\u00ed rozpo\u010dtov\u00e9ho schodku? Na Bl\u00edzk\u00e9m v\u00fdchod\u011b znovu o\u017eila my\u0161lenka obdoby aliance NATO. Krom\u011b arabsk\u00fdch zem\u00ed se k n\u00ed hl\u00e1s\u00ed i Izrael. Poj\u00ed je spole\u010dn\u00fd nep\u0159\u00edtel jm\u00e9nem \u00cdr\u00e1n. A najevo vy\u0161la i tajn\u00e1 setk\u00e1n\u00ed nejvy\u0161\u0161\u00edch izraelsk\u00fdch a arabsk\u00fdch gener\u00e1l\u016f - o n\u00ed budeme mluvit. A v Praze jsou \u0161pi\u010dkov\u00ed odborn\u00edci na polymery z cel\u00e9 Evropy - jejich obor se dot\u00fdk\u00e1 praktick\u00fdch z\u00e1le\u017eitost\u00ed, jako je biomedic\u00edna, v\u00fdroba lithiov\u00fdch bateri\u00ed do elektroaut anebo materi\u00e1l\u016f pro elektroniku. Moderuj\u00ed Jan Burda a Martina Ma\u0161kov\u00e1.",
+            "since": "2022-06-28T07:10:00+02:00",
+            "till": "2022-06-28T08:00:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6126378,
+                "profile": "https:\/\/plus.rozhlas.cz\/ranni-plus-6126378",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6126378.jpg"
+            },
+            "persons": [
+                {
+                    "id": 5000076,
+                    "name": "Martina Ma\u0161kov\u00e1",
+                    "profile": "https:\/\/informace.rozhlas.cz\/martina-maskova-5000076",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5000076.jpg"
+                },
+                {
+                    "id": 5000439,
+                    "name": "Jan Burda",
+                    "profile": "https:\/\/informace.rozhlas.cz\/jan-burda-5000439",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5000439.jpg"
+                }
+            ]
+        },
+        {
+            "station": "plus",
+            "id": 17898887,
+            "title": "Zpr\u00e1vy v p\u016fl",
+            "description": "",
+            "since": "2022-06-28T07:30:00+02:00",
+            "till": "2022-06-28T07:33:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898889,
+            "title": "Zpr\u00e1vy",
+            "description": "Aktu\u00e1ln\u00ed ud\u00e1losti doma i ve sv\u011bt\u011b",
+            "since": "2022-06-28T08:00:00+02:00",
+            "till": "2022-06-28T08:09:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898891,
+            "title": "T\u00e9ma dne",
+            "description": "Z\u00e1stupci zem\u00ed G7 neb\u00fdval\u00fdm zp\u016fsobem odsoudili ruskou agresi.\u00a0Chystaj\u00ed dal\u0161\u00ed sankce. Jak m\u016f\u017eou zem\u011b, kter\u00e9 podle Sv\u011btov\u00e9 banky reprezentuj\u00ed 45 % HDP ve sv\u011bt\u011b p\u0159isp\u011bt ke zm\u00edrn\u011bn\u00ed n\u00e1sledk\u016f v\u00e1lky na Ukrajin\u011b? A d\u00e1 se to d\u011blat v situaci, kdy Rusko je\u0161t\u011b bombarduje civiln\u00ed infrastukturu, jakou bylo obchodn\u00ed centrum ve st\u0159edoukrajinsk\u00e9m m\u011bst\u011b Kremen\u010duk? Moderuje Martina Ma\u0161kov\u00e1.",
+            "since": "2022-06-28T08:10:00+02:00",
+            "till": "2022-06-28T08:30:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 8560102,
+                "profile": "https:\/\/plus.rozhlas.cz\/tema-dne-8560102",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/8560102",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/8560102.jpg"
+            },
+            "persons": [
+                {
+                    "id": 5000076,
+                    "name": "Martina Ma\u0161kov\u00e1",
+                    "profile": "https:\/\/informace.rozhlas.cz\/martina-maskova-5000076",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5000076.jpg"
+                }
+            ]
+        },
+        {
+            "station": "plus",
+            "id": 17898892,
+            "title": "Zpr\u00e1vy v p\u016fl",
+            "description": "",
+            "since": "2022-06-28T08:30:00+02:00",
+            "till": "2022-06-28T08:33:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898894,
+            "title": "Podcast Vinohradsk\u00e1 12",
+            "description": "Mal\u00e1 obec, v n\u00ed n\u011bkolik n\u00e1jemn\u00edch byt\u016f. V nich Romov\u00e9 plat\u00edc\u00ed podle starosty za bydlen\u00ed n\u011bkolikan\u00e1sobn\u011b v\u00edc, ne\u017e by m\u011bli. Komu? Sv\u00e9mu gynekologovi. Zvl\u00e1\u0161tn\u00ed p\u0159\u00edb\u011bh nesouc\u00ed znaky obchodu s chudobou vypr\u00e1v\u00ed Anna Ko\u0161lerov\u00e1 z webu iRozhlas.cz. Moderuje Mat\u011bj Skalick\u00fd.",
+            "since": "2022-06-28T08:34:00+02:00",
+            "till": "2022-06-28T09:00:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898895,
+            "title": "Zpr\u00e1vy",
+            "description": "Aktu\u00e1ln\u00ed ud\u00e1losti doma i ve sv\u011bt\u011b",
+            "since": "2022-06-28T09:00:00+02:00",
+            "till": "2022-06-28T09:09:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898897,
+            "title": "Rann\u00ed Plus",
+            "description": "V Madridu za\u010d\u00edn\u00e1 setk\u00e1n\u00ed \u0161pi\u010dek \u010dlensk\u00fdch zem\u00ed Severoatlantick\u00e9 aliance. T\u00e9matem bude v\u00e1lka na Ukrajin\u011b, \u017e\u00e1dosti Finska a \u0160v\u00e9dska nebo tak\u00e9 posilov\u00e1n\u00ed v\u00fdchodn\u00edho k\u0159\u00eddla aliance. Sr\u00ed Lanka \u010del\u00ed nejt\u011b\u017e\u0161\u00ed ekonomick\u00e9 krizi ve sv\u00e9 historii. Dovedli j\u00ed do n\u00ed zkorumpovan\u00ed politici a \u010d\u00ednsk\u00e1 strategie takzvan\u00e9 dluhov\u00e9 pasti. M\u00e1 zem\u011b \u0161anci na z\u00e1chranu? Vr\u00e1t\u00edme k osudu ukrajinsk\u00e9 rodiny, kterou sledujeme v \u010dasosb\u011brn\u00e9m seri\u00e1lu. Po p\u00e1r t\u00fddnech u\u017e dev\u00edtilet\u00e1 gymnastka Polyna za\u010d\u00edn\u00e1 mluvit \u010desky a jej\u00ed matka na\u0161la nov\u00fd byt pobl\u00ed\u017e hav\u00ed\u0159ovsk\u00e9 sportovn\u00ed haly, kde d\u00edvka tr\u00e9nuje. Moderuj\u00ed Jan Burda a Martina Ma\u0161kov\u00e1.",
+            "since": "2022-06-28T09:10:00+02:00",
+            "till": "2022-06-28T09:30:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6126378,
+                "profile": "https:\/\/plus.rozhlas.cz\/ranni-plus-6126378",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6126378.jpg"
+            },
+            "persons": [
+                {
+                    "id": 5000076,
+                    "name": "Martina Ma\u0161kov\u00e1",
+                    "profile": "https:\/\/informace.rozhlas.cz\/martina-maskova-5000076",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5000076.jpg"
+                },
+                {
+                    "id": 5000439,
+                    "name": "Jan Burda",
+                    "profile": "https:\/\/informace.rozhlas.cz\/jan-burda-5000439",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5000439.jpg"
+                }
+            ]
+        },
+        {
+            "station": "plus",
+            "id": 17898898,
+            "title": "Zpr\u00e1vy v p\u016fl",
+            "description": "",
+            "since": "2022-06-28T09:30:00+02:00",
+            "till": "2022-06-28T09:33:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898900,
+            "title": "Rann\u00ed Plus",
+            "description": "Britsk\u00fd parlament schv\u00e1lil jednostrannou \u00fapravu tzv. severoirsk\u00e9ho protokolu. Z\u00e1konod\u00e1rci v Lond\u00fdn\u011b tak odm\u00edtli hrani\u010dn\u00ed kontroly zbo\u017e\u00ed mezi Severn\u00edm Irskem a zbytkem Spojen\u00e9ho kr\u00e1lovstv\u00ed. Jak\u00e9 to m\u016f\u017ee m\u00edt d\u016fsledky? Star\u0161\u00ed u\u010ditel\u00e9 odch\u00e1zej\u00ed do d\u016fchodu a mnohdy je nem\u00e1 kdo nahradit, mlad\u00ed vystudovan\u00ed pedagogov\u00e9 chyb\u00ed. Do \u0161kol na Mostecku a Chomutovsku ale p\u0159ich\u00e1zej\u00ed lid\u00e9 z jin\u00fdch obor\u016f. Jak\u00fdch a za jak\u00fdch podm\u00ednek mohou za katedru? Stepi na z\u00e1pad\u011b Ukrajiny nevznikly samovoln\u011b. Podobu tamn\u00ed krajiny od prav\u011bku ur\u010doval \u010dlov\u011bk. Jak p\u0159esn\u011b? Moderuj\u00ed Jan Burda a Martina Ma\u0161kov\u00e1.",
+            "since": "2022-06-28T09:34:00+02:00",
+            "till": "2022-06-28T10:00:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6126378,
+                "profile": "https:\/\/plus.rozhlas.cz\/ranni-plus-6126378",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6126378.jpg"
+            },
+            "persons": [
+                {
+                    "id": 5000076,
+                    "name": "Martina Ma\u0161kov\u00e1",
+                    "profile": "https:\/\/informace.rozhlas.cz\/martina-maskova-5000076",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5000076.jpg"
+                },
+                {
+                    "id": 5000439,
+                    "name": "Jan Burda",
+                    "profile": "https:\/\/informace.rozhlas.cz\/jan-burda-5000439",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5000439.jpg"
+                }
+            ]
+        },
+        {
+            "station": "plus",
+            "id": 17898901,
+            "title": "Zpr\u00e1vy",
+            "description": "Aktu\u00e1ln\u00ed ud\u00e1losti doma i ve sv\u011bt\u011b",
+            "since": "2022-06-28T10:00:00+02:00",
+            "till": "2022-06-28T10:09:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898903,
+            "title": "Pro a proti",
+            "description": "Premi\u00e9r Petr Fiala chce kv\u016fli rostouc\u00edm cen\u00e1m energi\u00ed dostat pod kontrolu st\u00e1tu s\u00ed\u0165 kl\u00ed\u010dov\u00fdch elektr\u00e1ren. Zabr\u00e1n\u00ed to z dlouhodob\u00e9ho hlediska skokov\u00e9mu zdra\u017eov\u00e1n\u00ed elekt\u0159iny? Luk\u00e1\u0161 Mato\u0161ka se zept\u00e1 energetick\u00e9ho konzultanta Martina Apka a v\u00fdkonn\u00e9ho \u0159editele Asociace nez\u00e1visl\u00fdch dodavatel\u016f energi\u00ed Ji\u0159\u00edho Gavora.",
+            "since": "2022-06-28T10:10:00+02:00",
+            "till": "2022-06-28T10:30:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6482952,
+                "profile": "https:\/\/plus.rozhlas.cz\/pro-a-proti-6482952",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6482952",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6482952.jpg"
+            },
+            "persons": [
+                {
+                    "id": 5984693,
+                    "name": "Luk\u00e1\u0161 Mato\u0161ka",
+                    "profile": "https:\/\/informace.rozhlas.cz\/lukas-matoska-5984693",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5984693.jpg"
+                }
+            ]
+        },
+        {
+            "station": "plus",
+            "id": 17898904,
+            "title": "Zpr\u00e1vy v p\u016fl",
+            "description": "",
+            "since": "2022-06-28T10:30:00+02:00",
+            "till": "2022-06-28T10:33:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898906,
+            "title": "Osobnost Plus",
+            "description": "Peter B\u00e1rdy, \u0161\u00e9fredaktor zpravodajsk\u00e9ho webu Aktuality SK. Od za\u010d\u00e1tku b\u0159ezna je znovu p\u0159ed soudem p\u0159\u00edpad vra\u017edy slovensk\u00e9ho novin\u00e1\u0159e J\u00e1na Kuciaka a jeho p\u0159\u00edtelkyn\u011b Martiny Ku\u0161n\u00edrov\u00e9. Tento p\u0159\u00edpad dal tak\u00e9 podn\u011bt ke vzniku celove\u010dern\u00edho d\u00e1nsko-americko-\u010desk\u00e9ho dokumentu Kuciak: vra\u017eda novin\u00e1\u0159e, kter\u00fd se bude prom\u00edtat na filmov\u00e9m festivalu v Karlov\u00fdch Varech. Co to d\u011bl\u00e1 se Slovenskem, \u017ee po v\u00edce jak \u010dty\u0159ech letech nen\u00ed soud u konce? Je o ten proces u ve\u0159ejnosti st\u00e1le z\u00e1jem? A co dnes nejv\u00edc ovliv\u0148uje n\u00e1lady na Slovensku? Moderuje Barbora Tachec\u00ed.",
+            "since": "2022-06-28T10:34:00+02:00",
+            "till": "2022-06-28T11:00:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6483083,
+                "profile": "https:\/\/plus.rozhlas.cz\/osobnost-plus-6483083",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6483083",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483083.jpg"
+            },
+            "persons": [
+                {
+                    "id": 5001039,
+                    "name": "Barbora Tachec\u00ed",
+                    "profile": "https:\/\/informace.rozhlas.cz\/barbora-tacheci-5001039",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5001039.jpg"
+                }
+            ]
+        },
+        {
+            "station": "plus",
+            "id": 17898907,
+            "title": "Zpr\u00e1vy",
+            "description": "Aktu\u00e1ln\u00ed ud\u00e1losti doma i ve sv\u011bt\u011b",
+            "since": "2022-06-28T11:00:00+02:00",
+            "till": "2022-06-28T11:09:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898909,
+            "title": "\u0158e\u010d\u00ed pen\u011bz",
+            "description": "Pro\u010d i p\u0159es v\u00fdrazn\u00fd r\u016fst cen stavebn\u00edch materi\u00e1l\u016f v\u011bt\u0161ina \u010cech\u016f pl\u00e1nuje v tomto roce utratit sv\u00e9 \u00faspory v rekonstrukc\u00edch a stavb\u00e1ch sv\u00e9ho bydlen\u00ed? T\u00e9ma pro \u0158e\u010d\u00ed pen\u011bz a hlavn\u00edho ekonoma \u010cesk\u00e9 spo\u0159itelny Davida Navr\u00e1tila. Moderuje V\u00e1clav Pe\u0161i\u010dka.",
+            "since": "2022-06-28T11:10:00+02:00",
+            "till": "2022-06-28T11:30:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6482984,
+                "profile": "https:\/\/plus.rozhlas.cz\/reci-penez-6482984",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6482984",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6482984.jpg"
+            },
+            "persons": [
+                {
+                    "id": 5003265,
+                    "name": "V\u00e1clav Pe\u0161i\u010dka",
+                    "profile": "https:\/\/informace.rozhlas.cz\/vaclav-pesicka-5003265",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5003265.jpg"
+                }
+            ]
+        },
+        {
+            "station": "plus",
+            "id": 17898910,
+            "title": "Zpr\u00e1vy v p\u016fl",
+            "description": "",
+            "since": "2022-06-28T11:30:00+02:00",
+            "till": "2022-06-28T11:33:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898912,
+            "title": "Interview Plus",
+            "description": "Hana Kordov\u00e1 Marvanov\u00e1, pra\u017esk\u00e1 radn\u00ed. M\u011bl pra\u017esk\u00fd radn\u00ed pro dopravu Adam Scheinherr dohodu s polici\u00ed, \u017ee po trestn\u00edm ozn\u00e1men\u00ed podan\u00e9m kv\u016fli podez\u0159en\u00ed z\u00a0korupce v\u00a0m\u011bstsk\u00e9m dopravn\u00edm podniku bude pasivn\u011b ml\u010det, aby vy\u0161et\u0159ovatel\u00e9 mohli v\u00a0klidu pracovat? Kdo si jako prvn\u00ed ve veden\u00ed Prahy v\u0161iml korup\u010dn\u00edho jedn\u00e1n\u00ed n\u00e1m\u011bstka prim\u00e1tora Petra Hlubu\u010dka a vyzval k\u00a0n\u00e1prav\u011b?",
+            "since": "2022-06-28T11:34:00+02:00",
+            "till": "2022-06-28T11:59:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6504167,
+                "profile": "https:\/\/plus.rozhlas.cz\/interview-plus-6504167",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6504167",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6504167.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898914,
+            "title": "Hlavn\u00ed zpr\u00e1vy",
+            "description": "Zpravodajsk\u00fd souhrn",
+            "since": "2022-06-28T12:00:00+02:00",
+            "till": "2022-06-28T12:10:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483233,
+                "profile": "https:\/\/plus.rozhlas.cz\/hlavni-zpravy-6483233",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483233.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898915,
+            "title": "Hlavn\u00ed zpr\u00e1vy - rozhovory, koment\u00e1\u0159e",
+            "description": "Ud\u00e1losti dne v rozhovorech s akt\u00e9ry a koment\u00e1tory",
+            "since": "2022-06-28T12:10:00+02:00",
+            "till": "2022-06-28T12:30:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898916,
+            "title": "Zpr\u00e1vy v p\u016fl",
+            "description": "",
+            "since": "2022-06-28T12:30:00+02:00",
+            "till": "2022-06-28T12:33:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898918,
+            "title": "Jak to vid\u00ed...",
+            "description": "O d\u016fv\u011bryhodnosti \u010cesk\u00e9ho rozhlasu, ve\u0159ejnopr\u00e1vn\u00edch m\u00e9di\u00ed, sou\u010dasn\u00e9 novina\u0159in\u011b a o tom, jestli m\u00e9dia opravdu rozd\u011bluj\u00ed spole\u010dnost, dnes mluvil analytik Josef \u0160lerka v po\u0159adu Jak to vid\u00ed. Ve vys\u00edl\u00e1n\u00ed Dvojky se ptala Zita Senkov\u00e1.",
+            "since": "2022-06-28T12:34:00+02:00",
+            "till": "2022-06-28T12:59:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 5001081,
+                "profile": "https:\/\/dvojka.rozhlas.cz\/jak-vidi-5001081",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/5001081",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/5001081.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898919,
+            "title": "Zpr\u00e1vy",
+            "description": "Aktu\u00e1ln\u00ed ud\u00e1losti doma i ve sv\u011bt\u011b",
+            "since": "2022-06-28T13:00:00+02:00",
+            "till": "2022-06-28T13:09:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898921,
+            "title": "T\u00e9ma dne",
+            "description": "Z\u00e1stupci zem\u00ed G7 neb\u00fdval\u00fdm zp\u016fsobem odsoudili ruskou agresi.\u00a0Chystaj\u00ed dal\u0161\u00ed sankce. Jak m\u016f\u017eou zem\u011b, kter\u00e9 podle Sv\u011btov\u00e9 banky reprezentuj\u00ed 45 % HDP ve sv\u011bt\u011b p\u0159isp\u011bt ke zm\u00edrn\u011bn\u00ed n\u00e1sledk\u016f v\u00e1lky na Ukrajin\u011b? A d\u00e1 se to d\u011blat v situaci, kdy Rusko je\u0161t\u011b bombarduje civiln\u00ed infrastukturu, jakou bylo obchodn\u00ed centrum ve st\u0159edoukrajinsk\u00e9m m\u011bst\u011b Kremen\u010duk? Moderuje Martina Ma\u0161kov\u00e1.",
+            "since": "2022-06-28T13:10:00+02:00",
+            "till": "2022-06-28T13:30:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 8560102,
+                "profile": "https:\/\/plus.rozhlas.cz\/tema-dne-8560102",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/8560102",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/8560102.jpg"
+            },
+            "persons": [
+                {
+                    "id": 5000076,
+                    "name": "Martina Ma\u0161kov\u00e1",
+                    "profile": "https:\/\/informace.rozhlas.cz\/martina-maskova-5000076",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5000076.jpg"
+                }
+            ]
+        },
+        {
+            "station": "plus",
+            "id": 17898922,
+            "title": "Zpr\u00e1vy v p\u016fl",
+            "description": "",
+            "since": "2022-06-28T13:30:00+02:00",
+            "till": "2022-06-28T13:33:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898924,
+            "title": "N\u00e1zory a argumenty",
+            "description": "S \u010d\u00edm do funkce p\u0159ich\u00e1z\u00ed nov\u00fd ministr \u0161kolstv\u00ed, vyhl\u00e1\u0161en\u00ed term\u00ednu prezidentsk\u00fdch voleb, porovn\u00e1n\u00ed stavu ve\u0159ejnopr\u00e1vn\u00edch m\u00e9di\u00ed u n\u00e1s a v N\u011bmecku, \u010di situace \u017een ve Spojen\u00fdch st\u00e1tech po zru\u0161en\u00ed feder\u00e1ln\u011b zakotven\u00e9ho pr\u00e1va na interrupci - to jsou n\u011bkter\u00e1 z t\u00e9mat \u00fatern\u00edch N\u00e1zor\u016f a argument\u016f, jimi\u017e ze studia prov\u00e1z\u00ed Petr Schwarz.",
+            "since": "2022-06-28T13:34:00+02:00",
+            "till": "2022-06-28T14:00:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6504158,
+                "profile": "https:\/\/plus.rozhlas.cz\/nazory-a-argumenty-6504158",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6504158",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6504158.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898925,
+            "title": "Zpr\u00e1vy",
+            "description": "Aktu\u00e1ln\u00ed ud\u00e1losti doma i ve sv\u011bt\u011b",
+            "since": "2022-06-28T14:00:00+02:00",
+            "till": "2022-06-28T14:09:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898927,
+            "title": "Odpoledn\u00ed Plus",
+            "description": "Skupina G7 bude hledat zp\u016fsob, jak omezit cenu rusk\u00e9 ropy a Moskv\u011b t\u00edm eliminovat p\u0159\u00edjmy. Co p\u0159inesl summit l\u00eddr\u016f G7 v Bavorsku, kter\u00fd pr\u00e1v\u011b skon\u010dil? Spojen\u00e9 st\u00e1ty tento t\u00fdden mo\u017en\u00e1 ozn\u00e1m\u00ed dal\u0161\u00ed dod\u00e1vky zbran\u00ed pro Ukrajinu. M\u00e1 j\u00edt o syst\u00e9m HIMARS, Ukrajina ale \u017e\u00e1d\u00e1 i o syst\u00e9m NASAMS, kter\u00fd m\u00e1 dosah a\u017e 160 kilometr\u016f. P\u0159ib\u00fdv\u00e1 \u010cech\u016f, kte\u0159\u00ed jezd\u00ed na dovolenou v karavanu nebo v obytn\u00e9m p\u0159\u00edv\u011bsu. V dal\u0161\u00edm d\u00edle cestovatelsk\u00e9m seri\u00e1lu se dozv\u00edte, co v\u0161echno je k p\u016fj\u010den\u00ed karavanu pot\u0159eba a na co si d\u00e1t p\u0159i jeho \u0159\u00edzen\u00ed pozor? Moderuje Renata Krop\u00e1\u010dkov\u00e1.",
+            "since": "2022-06-28T14:10:00+02:00",
+            "till": "2022-06-28T14:30:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6483146,
+                "profile": "https:\/\/plus.rozhlas.cz\/odpoledni-plus-6483146",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483146.jpg"
+            },
+            "persons": [
+                {
+                    "id": 5003277,
+                    "name": "Renata Krop\u00e1\u010dkov\u00e1",
+                    "profile": "https:\/\/informace.rozhlas.cz\/renata-kropackova-5003277",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5003277.jpg"
+                }
+            ]
+        },
+        {
+            "station": "plus",
+            "id": 17898928,
+            "title": "Zpr\u00e1vy v p\u016fl",
+            "description": "",
+            "since": "2022-06-28T14:30:00+02:00",
+            "till": "2022-06-28T14:32:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898930,
+            "title": "Podcast Vinohradsk\u00e1 12",
+            "description": "Mal\u00e1 obec, v n\u00ed n\u011bkolik n\u00e1jemn\u00edch byt\u016f. V nich Romov\u00e9 plat\u00edc\u00ed podle starosty za bydlen\u00ed n\u011bkolikan\u00e1sobn\u011b v\u00edc, ne\u017e by m\u011bli. Komu? Sv\u00e9mu gynekologovi. Zvl\u00e1\u0161tn\u00ed p\u0159\u00edb\u011bh nesouc\u00ed znaky obchodu s chudobou vypr\u00e1v\u00ed Anna Ko\u0161lerov\u00e1 z webu iRozhlas.cz. Moderuje Mat\u011bj Skalick\u00fd.",
+            "since": "2022-06-28T14:33:00+02:00",
+            "till": "2022-06-28T15:00:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898931,
+            "title": "Zpr\u00e1vy",
+            "description": "Aktu\u00e1ln\u00ed ud\u00e1losti doma i ve sv\u011bt\u011b",
+            "since": "2022-06-28T15:00:00+02:00",
+            "till": "2022-06-28T15:09:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898933,
+            "title": "Odpoledn\u00ed Plus",
+            "description": "V t\u00e9to p\u016flhodin\u011b budeme mluvit o dom\u00e1c\u00edm n\u00e1sil\u00ed - nov\u00e1 iniciativa Pod sv\u00edcnem si d\u00e1v\u00e1 za c\u00edl v\u011bt\u0161\u00ed osv\u011btu v pot\u00edr\u00e1n\u00ed dom\u00e1c\u00edho n\u00e1sil\u00ed. Jak takov\u00e9 chov\u00e1n\u00ed rozpoznat, jak\u00e9 zm\u011bny si vy\u017e\u00e1d\u00e1 legislativa? Tragick\u00fdm n\u00e1sledk\u016fm po\u017e\u00e1r\u016f v domovech pro seniory m\u00e1 do 2,5 let p\u0159edch\u00e1zet technologick\u00e1 novinka. Kolik to bude st\u00e1t a budou na ni domovy senior\u016f m\u00edt? A jak funguj\u00ed \u0161ifrovan\u00e9 telefony, kter\u00e9 pou\u017e\u00edvala skupina okolo pra\u017esk\u00e9ho radn\u00edho Petra Hlubu\u010dka? Pro\u010d pat\u0159\u00ed do muzea? Budeme mluvit o d\u016fsledc\u00edch p\u00e1te\u010dn\u00edho rozhodnut\u00ed americk\u00e9ho nejvy\u0161\u0161\u00edho soudu o potratech. M\u00e1me pro v\u00e1s exkluzivn\u00ed rozhovor s vojenskou z\u00e1chran\u00e1\u0159kou, kter\u00e1 v\u00a0roce 2014 jako prvn\u00ed \u017eena vstoupila do ukrajinsk\u00e9ho pluku Azov vytvo\u0159en\u00e9ho jako prvn\u00ed reakce na rusk\u00e9 \u00fatoky v oblasti Donbasu. V dne\u0161n\u00ed rubrice Kniha dne PLUS p\u0159edstav\u00edme debut americk\u00e9 spisovatelky \u010d\u00ednsk\u00e9ho p\u016fvodu nazvan\u00fd P\u011bt \u010c\u00ed\u0148an\u016f ob\u011b\u0161en\u00fdch v Idahu. Moderuje Renata Krop\u00e1\u010dkov\u00e1.",
+            "since": "2022-06-28T15:10:00+02:00",
+            "till": "2022-06-28T16:00:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6483146,
+                "profile": "https:\/\/plus.rozhlas.cz\/odpoledni-plus-6483146",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483146.jpg"
+            },
+            "persons": [
+                {
+                    "id": 5003277,
+                    "name": "Renata Krop\u00e1\u010dkov\u00e1",
+                    "profile": "https:\/\/informace.rozhlas.cz\/renata-kropackova-5003277",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5003277.jpg"
+                }
+            ]
+        },
+        {
+            "station": "plus",
+            "id": 17898934,
+            "title": "Zpr\u00e1vy v p\u016fl",
+            "description": "",
+            "since": "2022-06-28T15:30:00+02:00",
+            "till": "2022-06-28T15:32:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898936,
+            "title": "Zpr\u00e1vy",
+            "description": "Aktu\u00e1ln\u00ed ud\u00e1losti doma i ve sv\u011bt\u011b",
+            "since": "2022-06-28T16:00:00+02:00",
+            "till": "2022-06-28T16:09:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898938,
+            "title": "Odpoledn\u00ed Plus",
+            "description": "O kolik by m\u011bly stoupnout platy ve ve\u0159ejn\u00e9m sektoru podle odbor\u016f a o kolik podle vl\u00e1dn\u00edch stran ? Na \u010dem se najde shoda, kdy\u017e vl\u00e1da p\u0159edem vylu\u010duje mo\u017enost valorizace o inflaci? Jak p\u0159elomov\u00fd bude nadch\u00e1zej\u00edc\u00ed summit NATO v Madridu? Pa\u0159\u00ed\u017esk\u00fd tribun\u00e1l u\u017e z\u00edtra vynese verdikt v\u00a0nejdel\u0161\u00edm soudn\u00edm l\u00ed\u010den\u00ed ve francouzsk\u00e9 pov\u00e1le\u010dn\u00e9 historii. Rozsudek si vyslechne 14 lid\u00ed ob\u017ealovan\u00fdch z\u00a0atent\u00e1t\u016f z\u00a0roku 2015, nejen v\u00a0hudebn\u00edm klubu Bataclan. Jak se radikalizaci obyvatel sna\u017e\u00ed zabr\u00e1nit francouzsk\u00e9 \u0161koly? A jak na ob\u011bti \u00fatok\u016f vzpom\u00ednaj\u00ed studenti? Moderuje Renata Krop\u00e1\u010dkov\u00e1.",
+            "since": "2022-06-28T16:10:00+02:00",
+            "till": "2022-06-28T16:30:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6483146,
+                "profile": "https:\/\/plus.rozhlas.cz\/odpoledni-plus-6483146",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483146.jpg"
+            },
+            "persons": [
+                {
+                    "id": 5003277,
+                    "name": "Renata Krop\u00e1\u010dkov\u00e1",
+                    "profile": "https:\/\/informace.rozhlas.cz\/renata-kropackova-5003277",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5003277.jpg"
+                }
+            ]
+        },
+        {
+            "station": "plus",
+            "id": 17898939,
+            "title": "Zpr\u00e1vy v p\u016fl",
+            "description": "",
+            "since": "2022-06-28T16:30:00+02:00",
+            "till": "2022-06-28T16:33:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898941,
+            "title": "Interview Plus",
+            "description": "Hana Kordov\u00e1 Marvanov\u00e1, pra\u017esk\u00e1 radn\u00ed. M\u011bl pra\u017esk\u00fd radn\u00ed pro dopravu Adam Scheinherr dohodu s polici\u00ed, \u017ee po trestn\u00edm ozn\u00e1men\u00ed podan\u00e9m kv\u016fli podez\u0159en\u00ed z\u00a0korupce v\u00a0m\u011bstsk\u00e9m dopravn\u00edm podniku bude pasivn\u011b ml\u010det, aby vy\u0161et\u0159ovatel\u00e9 mohli v\u00a0klidu pracovat? Kdo si jako prvn\u00ed ve veden\u00ed Prahy v\u0161iml korup\u010dn\u00edho jedn\u00e1n\u00ed n\u00e1m\u011bstka prim\u00e1tora Petra Hlubu\u010dka a vyzval k\u00a0n\u00e1prav\u011b?",
+            "since": "2022-06-28T16:34:00+02:00",
+            "till": "2022-06-28T16:59:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6504167,
+                "profile": "https:\/\/plus.rozhlas.cz\/interview-plus-6504167",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6504167",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6504167.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898942,
+            "title": "Zpr\u00e1vy",
+            "description": "Aktu\u00e1ln\u00ed ud\u00e1losti doma i ve sv\u011bt\u011b",
+            "since": "2022-06-28T17:00:00+02:00",
+            "till": "2022-06-28T17:06:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898943,
+            "title": "Dvacet minut Radio\u017eurn\u00e1lu",
+            "description": "Hostem je Ladislav Kudrna, \u0159editel \u00dastavu pro studium totalitn\u00edch re\u017eim\u016f. Ten je kv\u016fli nezda\u0159en\u00e9 rekonstrukci sv\u00e9ho pra\u017esk\u00e9ho s\u00eddla ve v\u00e1\u017en\u00fdch pot\u00ed\u017e\u00edch. Zp\u016fsobilo je p\u0159edchoz\u00ed veden\u00ed \u00fastavu v \u010dele s \u0159editelem Zde\u0148kem Hazdrou? Nen\u00ed ohro\u017eena samotn\u00e1 existence t\u00e9to v\u00fdznamn\u00e9 polistopadov\u00e9 instituce? Moderuje Vladim\u00edr Kroc.",
+            "since": "2022-06-28T17:06:00+02:00",
+            "till": "2022-06-28T17:30:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 5997743,
+                "profile": "https:\/\/radiozurnal.rozhlas.cz\/dvacet-minut-radiozurnalu-5997743",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/5997743",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/5997743.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898944,
+            "title": "Zpr\u00e1vy v p\u016fl",
+            "description": "",
+            "since": "2022-06-28T17:30:00+02:00",
+            "till": "2022-06-28T17:32:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898946,
+            "title": "Odpoledn\u00ed Plus",
+            "description": "Mobiln\u00ed pumpy zjednodu\u0161\u00ed \u017eivot pacient\u016fm, kte\u0159\u00ed jsou trvale z\u00e1visl\u00ed na dom\u00e1c\u00ed v\u00fd\u017eiv\u011b p\u0159\u00edmo do \u017e\u00edly. Mohou d\u00edky nim i cestovat. Co v\u0161echno speci\u00e1ln\u00ed vaky obsahuj\u00ed a jak se vyr\u00e1b\u011bj\u00ed? Nejenom benz\u00edn, nafta, plyn nebo elekt\u0159ina. Ode dne\u0161ka se d\u00e1 v \u010cesku ve\u0159ejn\u011b tankovat do auta i vod\u00edk. Prvn\u00ed plnic\u00ed stanice byla otev\u0159en\u00e1 v Ostrav\u011b. S p\u0159\u00edpravou virtu\u00e1ln\u00ed 3D mapy tunel\u016f s in\u017een\u00fdrsk\u00fdmi s\u00edt\u011bmi pod Prahou pomohl robopes. V \u010dem je jedine\u010dn\u00fd a k \u010demu bude mapa pra\u017esk\u00fdch kolektor\u016f dobr\u00e1? Moderuje Renata Krop\u00e1\u010dkov\u00e1.",
+            "since": "2022-06-28T17:33:00+02:00",
+            "till": "2022-06-28T18:00:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6483146,
+                "profile": "https:\/\/plus.rozhlas.cz\/odpoledni-plus-6483146",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483146.jpg"
+            },
+            "persons": [
+                {
+                    "id": 5003277,
+                    "name": "Renata Krop\u00e1\u010dkov\u00e1",
+                    "profile": "https:\/\/informace.rozhlas.cz\/renata-kropackova-5003277",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5003277.jpg"
+                }
+            ]
+        },
+        {
+            "station": "plus",
+            "id": 17898947,
+            "title": "Hlavn\u00ed zpr\u00e1vy",
+            "description": "Zpravodajsk\u00fd souhrn",
+            "since": "2022-06-28T18:00:00+02:00",
+            "till": "2022-06-28T18:10:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483233,
+                "profile": "https:\/\/plus.rozhlas.cz\/hlavni-zpravy-6483233",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483233.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898948,
+            "title": "Hlavn\u00ed zpr\u00e1vy - rozhovory, koment\u00e1\u0159e",
+            "description": "Ud\u00e1losti dne v rozhovorech s akt\u00e9ry a koment\u00e1tory",
+            "since": "2022-06-28T18:10:00+02:00",
+            "till": "2022-06-28T18:30:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898949,
+            "title": "Zpr\u00e1vy v p\u016fl",
+            "description": "",
+            "since": "2022-06-28T18:30:00+02:00",
+            "till": "2022-06-28T18:33:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898950,
+            "title": "N\u00e1zory a argumenty",
+            "description": "S \u010d\u00edm do funkce p\u0159ich\u00e1z\u00ed nov\u00fd ministr \u0161kolstv\u00ed, vyhl\u00e1\u0161en\u00ed term\u00ednu prezidentsk\u00fdch voleb, porovn\u00e1n\u00ed stavu ve\u0159ejnopr\u00e1vn\u00edch m\u00e9di\u00ed u n\u00e1s a v N\u011bmecku, \u010di situace \u017een ve Spojen\u00fdch st\u00e1tech po zru\u0161en\u00ed feder\u00e1ln\u011b zakotven\u00e9ho pr\u00e1va na interrupci - to jsou n\u011bkter\u00e1 z t\u00e9mat \u00fatern\u00edch N\u00e1zor\u016f a argument\u016f, jimi\u017e ze studia prov\u00e1z\u00ed Petr Schwarz.",
+            "since": "2022-06-28T18:33:00+02:00",
+            "till": "2022-06-28T19:00:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6504158,
+                "profile": "https:\/\/plus.rozhlas.cz\/nazory-a-argumenty-6504158",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6504158",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6504158.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898951,
+            "title": "Zpr\u00e1vy",
+            "description": "Aktu\u00e1ln\u00ed ud\u00e1losti doma i ve sv\u011bt\u011b",
+            "since": "2022-06-28T19:00:00+02:00",
+            "till": "2022-06-28T19:05:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898964,
+            "title": "Podcast Vinohradsk\u00e1 12",
+            "description": "Mal\u00e1 obec, v n\u00ed n\u011bkolik n\u00e1jemn\u00edch byt\u016f. V nich Romov\u00e9 plat\u00edc\u00ed podle starosty za bydlen\u00ed n\u011bkolikan\u00e1sobn\u011b v\u00edc, ne\u017e by m\u011bli. Komu? Sv\u00e9mu gynekologovi. Zvl\u00e1\u0161tn\u00ed p\u0159\u00edb\u011bh nesouc\u00ed znaky obchodu s chudobou vypr\u00e1v\u00ed Anna Ko\u0161lerov\u00e1 z webu iRozhlas.cz. Moderuje Mat\u011bj Skalick\u00fd.",
+            "since": "2022-06-28T19:05:00+02:00",
+            "till": "2022-06-28T19:30:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898953,
+            "title": "Zpr\u00e1vy v p\u016fl",
+            "description": "",
+            "since": "2022-06-28T19:30:00+02:00",
+            "till": "2022-06-28T19:34:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898954,
+            "title": "Osobnost Plus",
+            "description": "Peter B\u00e1rdy, \u0161\u00e9fredaktor zpravodajsk\u00e9ho webu Aktuality SK. Od za\u010d\u00e1tku b\u0159ezna je znovu p\u0159ed soudem p\u0159\u00edpad vra\u017edy slovensk\u00e9ho novin\u00e1\u0159e J\u00e1na Kuciaka a jeho p\u0159\u00edtelkyn\u011b Martiny Ku\u0161n\u00edrov\u00e9. Tento p\u0159\u00edpad dal tak\u00e9 podn\u011bt ke vzniku celove\u010dern\u00edho d\u00e1nsko-americko-\u010desk\u00e9ho dokumentu Kuciak: vra\u017eda novin\u00e1\u0159e, kter\u00fd se bude prom\u00edtat na filmov\u00e9m festivalu v Karlov\u00fdch Varech. Co to d\u011bl\u00e1 se Slovenskem, \u017ee po v\u00edce jak \u010dty\u0159ech letech nen\u00ed soud u konce? Je o ten proces u ve\u0159ejnosti st\u00e1le z\u00e1jem? A co dnes nejv\u00edc ovliv\u0148uje n\u00e1lady na Slovensku? Moderuje Barbora Tachec\u00ed.",
+            "since": "2022-06-28T19:34:00+02:00",
+            "till": "2022-06-28T20:00:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6483083,
+                "profile": "https:\/\/plus.rozhlas.cz\/osobnost-plus-6483083",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6483083",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483083.jpg"
+            },
+            "persons": [
+                {
+                    "id": 5001039,
+                    "name": "Barbora Tachec\u00ed",
+                    "profile": "https:\/\/informace.rozhlas.cz\/barbora-tacheci-5001039",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5001039.jpg"
+                }
+            ]
+        },
+        {
+            "station": "plus",
+            "id": 17898955,
+            "title": "Zpr\u00e1vy",
+            "description": "Aktu\u00e1ln\u00ed ud\u00e1losti doma i ve sv\u011bt\u011b",
+            "since": "2022-06-28T20:00:00+02:00",
+            "till": "2022-06-28T20:05:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898956,
+            "title": "Ex libris",
+            "description": "Tajemstv\u00ed ve v\u00fdtvarn\u00e9m um\u011bn\u00ed - kniha, z n\u00ed\u017e budeme \u010d\u00edst v dal\u0161\u00edm vyd\u00e1n\u00ed po\u0159adu Ex libris. Dokazuje, \u017ee na slavn\u00e9 i m\u00e9n\u011b slavn\u00e9 obrazy se nesta\u010d\u00ed pouze d\u00edvat, ale tak\u00e9 o nich p\u0159em\u00fd\u0161let a hledat skryt\u00e1 sd\u011blen\u00ed. Knihu Debry Mancoffov\u00e9 p\u0159e\u010detl Luk\u00e1\u0161 Hurn\u00edk.",
+            "since": "2022-06-28T20:05:00+02:00",
+            "till": "2022-06-28T20:30:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6482946,
+                "profile": "https:\/\/plus.rozhlas.cz\/ex-libris-6482946",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6482946",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6482946.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898957,
+            "title": "Zpr\u00e1vy v p\u016fl",
+            "description": "",
+            "since": "2022-06-28T20:30:00+02:00",
+            "till": "2022-06-28T20:34:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": [],
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898958,
+            "title": "Jak to vid\u00ed...",
+            "description": "O d\u016fv\u011bryhodnosti \u010cesk\u00e9ho rozhlasu, ve\u0159ejnopr\u00e1vn\u00edch m\u00e9di\u00ed, sou\u010dasn\u00e9 novina\u0159in\u011b a o tom, jestli m\u00e9dia opravdu rozd\u011bluj\u00ed spole\u010dnost, dnes mluvil analytik Josef \u0160lerka v po\u0159adu Jak to vid\u00ed. Ve vys\u00edl\u00e1n\u00ed Dvojky se ptala Zita Senkov\u00e1.",
+            "since": "2022-06-28T20:34:00+02:00",
+            "till": "2022-06-28T21:00:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 5001081,
+                "profile": "https:\/\/dvojka.rozhlas.cz\/jak-vidi-5001081",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/5001081",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/5001081.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898959,
+            "title": "Zpr\u00e1vy",
+            "description": "Aktu\u00e1ln\u00ed ud\u00e1losti doma i ve sv\u011bt\u011b",
+            "since": "2022-06-28T21:00:00+02:00",
+            "till": "2022-06-28T21:10:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898960,
+            "title": "Dokument Plus",
+            "description": "\u017divotn\u00ed p\u0159\u00edb\u011bh teologa, filosofa a disidenta Milana Balab\u00e1na zpracoval do dvoud\u00edln\u00e9ho dokument\u00e1rn\u00edho p\u00e1sma z cyklu Pam\u011btn\u00edci publicista Milan Hanu\u0161. P\u0159ipravena je repr\u00edza prvn\u00ed \u010d\u00e1sti.",
+            "since": "2022-06-28T21:10:00+02:00",
+            "till": "2022-06-28T22:00:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 8727340,
+                "profile": "https:\/\/plus.rozhlas.cz\/dokument-plus-8727340",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/8727340",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/8727340.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898961,
+            "title": "Zpr\u00e1vy",
+            "description": "Aktu\u00e1ln\u00ed ud\u00e1losti doma i ve sv\u011bt\u011b",
+            "since": "2022-06-28T22:00:00+02:00",
+            "till": "2022-06-28T22:05:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898962,
+            "title": "Hovory",
+            "description": "Hostem Hovor\u016f je rusk\u00e1 studentka pra\u017esk\u00e9 DAMU Daria Gosteva. Poch\u00e1z\u00ed z\u00a0Moskvy a v Praze studuje sc\u00e9nografii. Co se pro mlad\u00e9 Rusky a Rusy studuj\u00edc\u00ed v\u00a0\u010cesku zm\u011bnilo v\u00e1lkou na Ukrajin\u011b? Mohou o v\u00e1lce mluvit s\u00a0p\u0159\u00edbuzn\u00fdmi a zn\u00e1m\u00fdmi doma v\u00a0Rusku?\u00a0Moderuje Petr Vizina.",
+            "since": "2022-06-28T22:05:00+02:00",
+            "till": "2022-06-28T22:30:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6482988,
+                "profile": "https:\/\/plus.rozhlas.cz\/hovory-6482988",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6482988",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6482988.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898963,
+            "title": "Zpr\u00e1vy v angli\u010dtin\u011b\/News in English",
+            "description": "P\u011btiminutov\u00fd p\u0159ehled aktu\u00e1ln\u00edho d\u011bn\u00ed v anglick\u00e9m jazyce. News in English offers a concise, English-language overview of events in the Czech Republic in the areas of politics, the economy and culture.",
+            "since": "2022-06-28T22:30:00+02:00",
+            "till": "2022-06-28T22:35:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483120,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-v-anglictinenews-english-6483120",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483120.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898952,
+            "title": "Pro a proti",
+            "description": "Premi\u00e9r Petr Fiala chce kv\u016fli rostouc\u00edm cen\u00e1m energi\u00ed dostat pod kontrolu st\u00e1tu s\u00ed\u0165 kl\u00ed\u010dov\u00fdch elektr\u00e1ren. Zabr\u00e1n\u00ed to z dlouhodob\u00e9ho hlediska skokov\u00e9mu zdra\u017eov\u00e1n\u00ed elekt\u0159iny? Luk\u00e1\u0161 Mato\u0161ka se zept\u00e1 energetick\u00e9ho konzultanta Martina Apka a v\u00fdkonn\u00e9ho \u0159editele Asociace nez\u00e1visl\u00fdch dodavatel\u016f energi\u00ed Ji\u0159\u00edho Gavora.",
+            "since": "2022-06-28T22:35:00+02:00",
+            "till": "2022-06-28T23:00:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6482952,
+                "profile": "https:\/\/plus.rozhlas.cz\/pro-a-proti-6482952",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6482952",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6482952.jpg"
+            },
+            "persons": [
+                {
+                    "id": 5984693,
+                    "name": "Luk\u00e1\u0161 Mato\u0161ka",
+                    "profile": "https:\/\/informace.rozhlas.cz\/lukas-matoska-5984693",
+                    "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/profile\/5984693.jpg"
+                }
+            ]
+        },
+        {
+            "station": "plus",
+            "id": 17898965,
+            "title": "Zpr\u00e1vy",
+            "description": "Aktu\u00e1ln\u00ed ud\u00e1losti doma i ve sv\u011bt\u011b",
+            "since": "2022-06-28T23:00:00+02:00",
+            "till": "2022-06-28T23:04:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 1,
+                "code": "ZPR",
+                "name": "Zpravodajstv\u00ed"
+            },
+            "edition": {
+                "id": 6483164,
+                "profile": "https:\/\/plus.rozhlas.cz\/zpravy-6483164",
+                "archive": null,
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483164.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898966,
+            "title": "N\u00e1zory a argumenty",
+            "description": "S \u010d\u00edm do funkce p\u0159ich\u00e1z\u00ed nov\u00fd ministr \u0161kolstv\u00ed, vyhl\u00e1\u0161en\u00ed term\u00ednu prezidentsk\u00fdch voleb, porovn\u00e1n\u00ed stavu ve\u0159ejnopr\u00e1vn\u00edch m\u00e9di\u00ed u n\u00e1s a v N\u011bmecku, \u010di situace \u017een ve Spojen\u00fdch st\u00e1tech po zru\u0161en\u00ed feder\u00e1ln\u011b zakotven\u00e9ho pr\u00e1va na interrupci - to jsou n\u011bkter\u00e1 z t\u00e9mat \u00fatern\u00edch N\u00e1zor\u016f a argument\u016f, jimi\u017e ze studia prov\u00e1z\u00ed Petr Schwarz.",
+            "since": "2022-06-28T23:04:00+02:00",
+            "till": "2022-06-28T23:30:00+02:00",
+            "repetition": true,
+            "type": {
+                "id": 2,
+                "code": "PUB",
+                "name": "Publicistika"
+            },
+            "edition": {
+                "id": 6504158,
+                "profile": "https:\/\/plus.rozhlas.cz\/nazory-a-argumenty-6504158",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6504158",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6504158.jpg"
+            },
+            "persons": []
+        },
+        {
+            "station": "plus",
+            "id": 17898967,
+            "title": "Radiokniha",
+            "description": "Marek Rabij: \u017divot na m\u00edru (5\/8) Autor knihy zji\u0161\u0165uje, jak funguj\u00ed buying houses a jakou roli hraj\u00ed v\u00a0\u0159\u00edzen\u00ed v\u00fdroby v\u00a0od\u011bvn\u00edch tov\u00e1rn\u00e1ch v\u00a0Banglad\u00e9\u0161i. V\u00a0\u010dem spo\u010d\u00edv\u00e1 tzv. optimalizace n\u00e1klad\u016f? A jak je mo\u017en\u00e9, \u017ee n\u011bkter\u00e9 spole\u010dnosti netu\u0161\u00ed, kde a v\u00a0jak\u00fdch podm\u00ednk\u00e1ch se ve skute\u010dnosti \u0161ije jejich oble\u010den\u00ed? Z knihy polsk\u00e9ho novin\u00e1\u0159e, cestovatele a report\u00e9ra Marka Rabije v p\u0159ekladu Michaly Bene\u0161ov\u00e9 pro rozhlas p\u0159ipravila Krist\u00fdna Kodrlov\u00e1. Dramaturgie Alena Bla\u017eejovsk\u00e1. V\u00a0re\u017eii Radima Nejedl\u00e9ho \u00fa\u010dinkuje Martin Sini\u010d\u00e1k.",
+            "since": "2022-06-28T23:33:00+02:00",
+            "till": "2022-06-28T23:59:00+02:00",
+            "repetition": false,
+            "type": {
+                "id": 44,
+                "code": "PRO",
+                "name": "Lit.po\u0159ady - pr\u00f3za"
+            },
+            "edition": {
+                "id": 6483132,
+                "profile": "https:\/\/plus.rozhlas.cz\/radiokniha-6483132",
+                "archive": "https:\/\/api.mujrozhlas.cz\/show-redirect\/6483132",
+                "asset": "https:\/\/data.rozhlas.cz\/api\/v2\/asset\/show\/6483132.jpg"
+            },
+            "persons": []
+        }
+    ]
+}
