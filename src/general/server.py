@@ -2,9 +2,7 @@
 
 
 """
-Flask web server serving REST (JSON) API.
+Flask web server responsible for serving REST (JSON) API.
 """
 
-
 import flask
-
