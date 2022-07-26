@@ -1,10 +1,10 @@
-from setuptools import setup, find_packages
+from setuptools import find_namespace_packages, setup
 
 setup(
-    name="cro-general-app",
+    name="cro-broadcast",
     version="0.3.0",
-    install_require=["flask"],
+    install_requires=["flask"],
     package_dir={"": "src"},
-    packages=find_packages(),
-    extras_require={"dev": ["black", "pytest", "mypy"]},
+    packages=find_namespace_packages(include=["cro.*"]),
+    extras_require={"dev": ["black", "pytest", "isort", "mypy", "sphinx"]},
 )
